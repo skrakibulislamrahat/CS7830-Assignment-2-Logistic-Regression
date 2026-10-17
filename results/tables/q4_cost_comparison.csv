@@ -1,0 +1,3 @@
+Model,Accuracy,Precision,Recall,Specificity,F1,BalancedAccuracy,AUC,LogLoss,TN,FP,FN,TP
+Cross-entropy with scaling,0.813333,0.750000,0.187500,0.983051,0.300000,0.585275,0.734110,0.451529,58,1,13,3
+MSE with scaling,0.813333,0.750000,0.187500,0.983051,0.300000,0.585275,0.726695,0.453322,58,1,13,3

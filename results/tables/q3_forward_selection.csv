@@ -1,0 +1,4 @@
+Step,Candidate,PValue,ZValue,TrainingCost,Accepted,SelectedBeforeStep,SelectedAfterStep
+1,Risk,0.00000003,5.52527106,0.44770055,True,None,Risk
+2,HndWshQual,0.01138898,-2.53053170,0.43698157,True,Risk,"Risk, HndWshQual"
+3,PersnDist,0.09708947,1.65913062,0.43233221,False,"Risk, HndWshQual","Risk, HndWshQual"

@@ -1,0 +1,17 @@
+Model,Feature,Theta
+All 12 features,Intercept,-1.09097938
+All 12 features,Vaccin,0.06955412
+All 12 features,HndWshQual,-0.45122882
+All 12 features,HndWshFreq,0.11322905
+All 12 features,SociDist,0.07883352
+All 12 features,NoFaceContact,0.05013526
+All 12 features,RespEttiqu,0.00192165
+All 12 features,PersnDist,0.24665704
+All 12 features,HandSanit,-0.10870536
+All 12 features,Risk,1.97716835
+All 12 features,Inefficacy,-0.02381475
+All 12 features,KnowlTrans,0.03532383
+All 12 features,KnowlMgmt,-0.37851186
+Forward-selected features,Intercept,0.10833041
+Forward-selected features,Risk,2.00870076
+Forward-selected features,HndWshQual,-0.37387266
